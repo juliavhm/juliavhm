@@ -3,10 +3,13 @@
 ㅤ☽‧꒰ა ☆ ໒꒱ *Bem-vindo*...˚. ✦.˳·˖✶
 ###  Eu sou a Julia ♡ 
 
-- 💻 Sou estudante de Ciência da Computação
-- 📖 Estou aprendendo Java, HTML, CSS e JavaScript
+- ✩ Sou estudante de Ciência da Computação
+- ★ Estou aprendendo Java, HTML, CSS e JavaScript
+- ✩ Linkedin: www.linkedin.com/in/julia-von-held
+ 
+  ![typing](https://github.com/juliavhm/juliavhm/assets/135188393/634c13e5-604d-4543-b262-5a13804b7798)
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julia-von-held/)
+
 <div>
 <img height="180em" src= "https://github-readme-stats.vercel.app/api?username=juliavhm&show_icons=true&theme=bear" />
 <img height="180em"src= "https://github-readme-stats.vercel.app/api/top-langs/?username=juliavhm&hide_progress=true&theme=bear" />
