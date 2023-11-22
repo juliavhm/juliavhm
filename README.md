@@ -1,5 +1,8 @@
 
-### Olá, eu sou a Julia <3
+
+ㅤ☽‧꒰ა ☆ ໒꒱ *Bem-vindo*...˚. ✦.˳·˖✶
+###  Eu sou a Julia ♡ 
+
 - 💻 Sou estudante de Ciência da Computação
 - 📖 Estou aprendendo Java, HTML, CSS e JavaScript
 
