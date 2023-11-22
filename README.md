@@ -1,6 +1,6 @@
 
 ### Olá, eu sou a Julia <3
-- 💻 Sou estudante de ciência da computação
+- 💻 Sou estudante de Ciência da Computação
 - 📖 Estou aprendendo Java, HTML, CSS e JavaScript
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julia-von-held/)
