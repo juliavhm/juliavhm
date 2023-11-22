@@ -9,11 +9,8 @@
  
   ![typing](https://github.com/juliavhm/juliavhm/assets/135188393/634c13e5-604d-4543-b262-5a13804b7798)
 
-
-<div>
-<img height="180em" src= "https://github-readme-stats.vercel.app/api?username=juliavhm&show_icons=true&theme=bear" />
-<img height="180em"src= "https://github-readme-stats.vercel.app/api/top-langs/?username=juliavhm&hide_progress=true&theme=bear" />
-</div>
+₍ᐢ .  ̫.ᐢ₎♡₍ᐢ. ̫ .⑅ᐢ₎ ─── ⋆⋅☆⋅⋆ ──✩°｡⋆⸜─── ⋆⋅☆⋅⋆ ──✩°｡⋆⸜ ₍ᐢ .  ̫.ᐢ₎♡₍ᐢ. ̫ .⑅ᐢ₎
+  
 
 <div>
  <picture>
