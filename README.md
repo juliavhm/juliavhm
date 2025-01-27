@@ -4,7 +4,8 @@
 ###  Eu sou a Julia ♡ 
 
 - ✩ Sou estudante de Ciência da Computação
-- ★ Estou aprendendo Java, HTML, CSS e JavaScript
+- ★ Estagiária de desenvolvimento de software
+- ★ Java, Node.js, React, Angular
 - ✩ Linkedin: www.linkedin.com/in/julia-von-held
  
   ![typing](https://github.com/juliavhm/juliavhm/assets/135188393/634c13e5-604d-4543-b262-5a13804b7798)
