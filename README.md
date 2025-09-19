@@ -1,10 +1,9 @@
 
 
 ㅤ☽‧꒰ა ☆ ໒꒱ *Bem-vindo*...˚. ✦.˳·˖✶
-###  Eu sou a Julia ♡ 
 
 - ✩ Sou estudante de Ciência da Computação
-- ★ Estagiária de desenvolvimento de software
+- ★ Desenvolvedora de software
 - ★ Java, Node.js, React, Angular
 - ✩ Linkedin: www.linkedin.com/in/julia-von-held
  
