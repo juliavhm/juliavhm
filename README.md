@@ -1,17 +1,16 @@
 
 
-ㅤ☽‧꒰ა ☆ ໒꒱ *Bem-vindo*...˚. ✦.˳·˖✶
+ㅤ☽‧꒰ა ☆ ໒꒱ *Welcome*...˚. ✦.˳·˖✶
 
-- ✩ Sou estudante de Ciência da Computação
-- ★ Desenvolvedora de software
-- ★ Java, Node.js, React, Angular
+- ✩ Computer Science student
+- ★ Software Developer
+- ★ Java, Node.js, React
 - ✩ Linkedin: www.linkedin.com/in/julia-von-held
  
   ![typing](https://github.com/juliavhm/juliavhm/assets/135188393/634c13e5-604d-4543-b262-5a13804b7798)
 
 ₍ᐢ .  ̫.ᐢ₎♡₍ᐢ. ̫ .⑅ᐢ₎ ─── ⋆⋅☆⋅⋆ ──✩°｡⋆⸜─── ⋆⋅☆⋅⋆ ──✩°｡⋆⸜─── ⋆⋅☆✩°｡⋅₍ᐢ .  ̫.ᐢ₎♡₍ᐢ. ̫ .⑅ᐢ₎
   
-
 <div>
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juliavhm/juliavhm/output/github-contribution-grid-snake-dark.svg">
