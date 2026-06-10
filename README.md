@@ -2,8 +2,8 @@
 
 ㅤ☽‧꒰ა ☆ ໒꒱ *Welcome*...˚. ✦.˳·˖✶
 
-- ✩ Computer Science student
-- ★ Software Developer
+- ✩ Computer Science Bachelor's graduate
+- ★ Software Developer @ Ericsson
 - ★ Java, Node.js, React
 - ✩ Linkedin: www.linkedin.com/in/julia-von-held
  
